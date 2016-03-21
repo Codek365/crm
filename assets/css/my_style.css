@@ -1,0 +1,354 @@
+.clear{ margin: 15px;position: relative}
+.cld{ width: 67%; float: left}
+.cld-1{ float: left;  margin-left: 20px; width: 27%}
+.cld-1 input{ height: 34px; border-radius:4px;!important;}
+.content-body{ padding: 0 !important;}
+
+.navbar h3 {
+    color: #f5f5f5;
+    margin-top: 14px;
+}
+.hljs-pre {
+    background: #f8f8f8;
+    padding: 3px;
+}
+.footer {
+    border-top: 1px solid #eee;
+    margin-top: 40px;
+    padding: 40px 0;
+}
+.input-group {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+@media (min-width: 768px) {
+    .container {
+        max-width: 985px;
+    }
+}
+@media (max-width: 767px) {
+    .pull-center {
+        float: right;
+    }
+}
+.scoll-page{width: 100%}
+.scoll-page textarea{ width: 100%; height: 107px;}
+.label.flash-sms{ padding: 5px !important; color: #fff}
+.boder-class{ border: 1px #eee solid; padding: 10px}
+.tasks-widget .task-list > li{ margin: 0px; padding: 0px; !important;}
+code{
+    color: #caaee1;
+    font-family: monospace;
+}
+
+
+.infor-form>tbody>tr>td, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>td, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>thead>tr>th{border: 0px;}
+.infor-form select{ padding: 3px 2px 3px 2px;height: 25px; width: 100%}
+.infor-form input{ width: 100%;  padding: 3px 5px 3px 5px; height: 25px}
+.infor-form>tbody>tr>td{ line-height: 24px; }
+.infor-form>tbody>tr{ border-bottom: 1px #ddd solid;}
+.name{ text-align: right}
+.infor-form .col-md-3{ width: 35%; text-align: right}
+.infor-form textarea{ width: 100%; height: 200px;}
+.show-detail{  text-align: right}
+.td-price{ font-weight: normal}
+.span_note{ color: #ff0000; }
+.start-date{ border: 1px grey solid !important;padding: 2px 6px 2px 6px !important; }
+.text-left{ text-align: left !important;}
+
+
+.input-icon.right > i{
+    right: 4px;
+    float: right;
+    bottom: 2px;
+    color: red; }
+.show-error{
+    width: 94.7%;
+    margin-left: 24px;
+    margin-top: 7px;
+    margin-bottom: 7px !important;
+}
+.width-100{ width: 100% !important; margin-left: 7px; margin-top: 0px;padding: 2px;}
+.text-wrap{ width: 101% !important;}
+.ls-10 a{ padding: 5px 15px !important;}
+.ls-10{ padding-top: 3px; padding: 0px !important; margin-top: 5px; margin-bottom: 0px }
+.pd-top{ padding-top: 5px;}
+.attach-file a{ color: #ffffff; text-decoration: none;}
+.attach-file a:hover{ color: #ffffff; text-decoration: none;}
+.submit-form{ padding: 53px 23px 60px 21px!important;}
+.user-email{ width: 100px; height: 100px; font-size: 50px}
+td > .email_body{ padding: 10px 0px 10px 0px !important;}
+.header-emai{ line-height: 25px !important;}
+.file-dowload{ width:100%; float: left; position: relative; display: block; margin-right: 10px}
+
+span.roll {
+    background:url(./../../img/mag.png) center center no-repeat #000;
+    height: 60px;
+    position: absolute;
+    width: 60px;
+    z-index: 10;
+    -webkit-box-shadow: 0px 0px 4px #000;
+    -moz-box-shadow: 0px 0px 4px  #000;
+    box-shadow: 0px 0px 4px  #000;
+}
+.name-file{ line-height: 10px}
+.check-opt{ width: 0px; float: left; text-align: left; margin-top: -1px; margin-left: 20px }
+.attach-ic{ margin-right: 20px }
+.tool-content{ max-width: 20%;}
+.content-email{ max-width: 80%; }
+.start-read{ margin-right:10px;}
+.mail-title{ margin-top: 0px !important;}
+.row{ color:  #555 !important;}
+.tr-out{
+    background: #e4eef5;font-weight: bold;
+}
+.tr-bb{ border-bottom:1px solid #eee; border: 1px #eee solid;}
+.text-align-left{ text-align: left !important;}
+.btd-bt{ padding: 0 9px 2px 7px !important; font-size: 8px}
+.btd-bt > i{ font-size: 10px !important;}
+.max-111{ max-height: 111px !important;}
+.assign-to-select > option{ padding-left: 0px !important;}
+.assign-to-select, .assign-from-select{ padding-left: 5px !important;}
+.plus-asign{ font-size: 11px !important;}
+.assign-active{ background: #e0dfe3; padding: 3px;}
+.crow-mail-bt{ width: 20.666667% !important;}
+.crow-mail-tool{ width: 79% !important;}
+.font-size-11{ font-size: 14px !important;}
+li.li-mn{border-bottom: 1px solid #e0e5e5;}
+li.li-mn:last-child{border-bottom: none;}
+li.li-mn a:hover{ border-radius: 0px; margin-top: 0px;}
+li.li-mn a:active{ border-radius: 0px;}
+.margin-none{
+    margin-top: -29px; margin-left: -16px
+}
+.file-new{ width: 100%;}
+.file-new table tr td{ line-height: 30px; border-bottom: 1px solid #eee; }
+.file-new table{ width: 100%;}
+
+.lh-40{ padding: -1px 0px 7px 0px }
+.pd-o{ padding-left: 0px; padding-right: 0px; margin-top: 0px }
+.sb-modal{ margin-top: -5px !important;}
+.width-98{ width: 98% !important;
+    border-radius: 0px !important;
+    border: 1px #AAAAAA solid !important;
+    padding-left: 3px !important;
+    height: 27px !important; line-height: 27px !important;
+}
+.height-20{ padding: 0px !important; }
+.width-98:visited{ background: #fff}
+.fileinput-button {
+    position: relative;
+    overflow: hidden;
+}
+.fileinput-button input {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    transform: translate(-300px, 0) scale(4);
+    font-size: 23px;
+    direction: ltr;
+    cursor: pointer;
+}
+.fileupload-buttonbar .btn,
+.fileupload-buttonbar .toggle {
+    margin-bottom: 5px;
+}
+.progress-animated .bar {
+    background: url(../img/progressbar.gif) !important;
+    filter: none;
+}
+.fileupload-loading {
+    float: right;
+    width: 32px;
+    height: 32px;
+    background: url(../img/loading.gif) center no-repeat;
+    background-size: contain;
+    display: none;
+}
+.fileupload-processing .fileupload-loading {
+    display: block;
+}
+
+@media (max-width: 767px) {
+    .fileupload-buttonbar .toggle,
+    .files .toggle,
+    .files .btn span {
+        display: none;
+    }
+    .files .name {
+        width: 80px;
+        word-wrap: break-word;
+    }
+}
+
+.loading-bar{ width: 100%; text-align: center; padding: 0; margin: 0; display: none}
+.fl-upload{ width: 100%;}
+.li-file{
+    background-color: #e0e5e5; text-align: right;
+    padding: 5px 8px 5px 0px;
+    border-radius: 3px;
+
+    color: #fff;
+    background-color: #3598dc;
+    border-color: #3598dc;
+
+    border-width: 0;
+    padding: 4px 5px;
+    font-size: 14px;
+    outline: none !important;
+    background-image: none !important;
+    filter: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    text-shadow: none;
+    margin-bottom: 3px;
+}
+ul{ list-style: none;}
+#files-ul{ margin-left: 30px !important;}
+.remove-file{ cursor: pointer; }
+.note-editor{ margin-top: 0px !important;}
+.loadding-img{
+    position: absolute; z-index: 9999; width: 100%; height: 100%; padding: 40%;
+    -webkit-transition: opacity .15s linear;
+    -o-transition: opacity .15s linear;
+    transition: opacity .15s linear;
+    display: none;
+}
+.text-email-to{ width: 98%; margin-left: 10px;padding-left: 5px;line-height: 21px; }
+
+
+/* Attribuisco la classe relative al form in modo da poter
+posizionare il menu autocomplete in relazione ad esso
+----------------------------------*/
+
+form#search-form{
+    position: relative;
+}
+
+/* Imposto gli stili del menu dell'autocomplete in modo da
+permettere a jQuery UI di spostalo a piacimento in base alla
+posizione del campo di testo
+----------------------------------*/
+
+form#search-form ul{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    max-height: 200px;
+    overflow: auto;
+    z-index: 1;
+    border-radius: 6px;
+}
+
+span.ui-helper-hidden-accessible{
+    display: none !important;
+}
+.ui-state-focus {
+    color: #ffffff;
+    background-color: #428bca;
+}
+.nav-stacked{ background-color: #fff !important; width: 100% !important;}
+ul#ui-id-1{
+    width: 60.5% !important;
+    padding: 4px 0;
+    margin: 0 0 10px 25px;
+    list-style: none;
+    background-color: #ffffff;
+    border-color: #ccc;
+    border-color: rgba(0, 0, 0, 0.2);
+    border-style: solid;
+    border-width: 1px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding;
+    max-height: 200px;
+    overflow-x: hidden
+
+}
+ul#ui-id-1 li{
+    line-height: 25px ;
+    border: 1px solid border: 1px solid #eee;
+    background: #fff;
+    border-bottom: 1px #eee solid;
+    /*padding-left: 15px;*/
+
+    padding-left: 15px;
+}
+ul#ui-id-1 li >a{
+    margin-left:-15px; padding-left: 15px !important;
+    border-radius: 0px !important;
+}
+ul#ui-id-1 li >a:hover{
+    background: #3598dc;
+    color: #fff;
+    font-weight: bold;
+}
+ul#ui-id-1 li:hover{
+    border: 0px !important;
+    padding: 0px !important;
+    padding-left: 15px !important;
+    border-bottom: 1px #eee solid !important;
+    font-weight: normal !important;
+    background: #3598dc;
+    color: #fff;
+}
+.email_to{ margin-left: 10px ;
+    height: 27px;
+    border-radius: 0px !important;
+    border: 1px solid #aaaaaa !important;
+    padding: 3px 8px 2px 8px !important; width: 98% !important;
+    font-size: 13px !important;
+}
+.tokens-delete-token{ z-index: 999999 !important;}
+.loading-get-email{
+    position: relative; z-index: 999;
+    margin-left: 40%;
+    margin-top: 10%;
+    display: none;
+}
+.init-span{
+    min-width: 120px;display: inline-block; padding-left: 5px;
+}
+
+blockquote{ font-size: 13px !important; font-weight: normal; width: 103%}
+ul .nav-stacked li a:hover{ background-color: #fff !important;}
+#ui-id-1>li>a{ padding: 0px !important;}
+#ui-id-1>li>a:hover{ background:#3598dc; margin-left: 0px !important; color: #fff;}
+#ui-id-1>li:hover{background:#3598dc;}
+#editor_1{ max-height: 200px !important;}
+.f-placeholder > div { min-height: 300px !important;}
+.a-reply, .a-forward{ margin-right: 10px; font-weight: 600}
+.a-reply i, .a-forward i{ font-size: 10px;}
+.edit-icon{ margin-right: 10px;}
+.insert-email tr{ padding-top: 10px; padding-bottom: 10px}
+.table_none_border>tbody>tr>td{ border: 0px !important; margin-bottom: 0px !important;}
+.table_none_border { margin-bottom: 0px !important;}
+.send_email{ font-weight:700 !important; font-size: 16px;}
+.i_exten{font-weight: normal; margin-top: -6px; margin-left: 5px;}
+.icheck-inline > span{ margin-left: 5px; font-size: 13px}
+.delete_folder{ cursor: pointer}
+.ui-autocomplete{ display: none !important;}
+.font-13{ font-size: 13px !important;}
+.padding-20{ padding-left: 20px !important;}
+#tree1 > li > a, #tree1 > li > ul > li, #tree1 > li > ul > li > ul > li{ line-height: 25px !important; font-size: 13px; color: #666}
+#tree1 > li > i, #tree1 > li > ul > li > i, #tree1 > li > ul > li > ul > li > i, #tree1 > li > ul > li > ul > li > ul > li >i{ font-size: 12px !important; cursor: pointer}
+#tree1 > li > i:first-child, #tree1 > li > ul > li > i:first-child, #tree1 > li > ul > li > ul > li > i:first-child, #tree1 > li > ul > li > ul > li > ul > li >i:first-child{ font-size: 8px !important; font-weight: normal}
+.ul-common{ margin-left: -40px !important; margin-bottom: 0px; margin-top: 0px;}
+.ul-common > li{ line-height: 30px; font-size: 13px}
+.ul-common > li > a > i{ font-size: 13px;}
+.vdetail{padding: 10px 0px; min-height: 300px; border-right: 1px solid #DDDDDD;}
+.vdetail span img{cursor: pointer;}
+.vdetail span{border: 1px solid #000000; padding: 5px 20px;float: left}
+.vdetail a{border: 1px solid #000; padding: 5px 35px; float: left; margin-bottom: 5px;}
+.vdetail_content{padding: 5px 40px;}
